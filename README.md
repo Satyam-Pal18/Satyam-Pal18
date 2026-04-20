@@ -71,14 +71,16 @@ A graduate Information Technology student at B.H.Gardi College of Engineering an
 ## GitHub Stats:
  
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Satyam-Pal18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true%22 alt="Satyam's GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyam-Pal18&theme=tokyonight&hide_border=true%22 alt="Satyam's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Satyam-Pal18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Satyam's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyam-Pal18&theme=tokyonight&hide_border=true" alt="Satyam's GitHub Streak" width="48%" />
 </p>
  
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam-Pal18&layout=compact&theme=tokyonight&hide_border=true&langs_count=8%22 alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam-Pal18&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
 </p>
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Satyam-Pal18&label=Profile%20views&color=38a9ff&style=flat" alt="Satyam-Pal18" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Satyam-Pal18&label=Profile%20views&color=38a9ff&style=flat" alt="Satyam-Pal18" />
+</p>
 
  
